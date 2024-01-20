@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "party-popper.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
